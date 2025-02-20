@@ -1,4 +1,3 @@
-# csgo123456.github.io
 ---  
 layout: default  
 title: 健康技术开发者简历  
